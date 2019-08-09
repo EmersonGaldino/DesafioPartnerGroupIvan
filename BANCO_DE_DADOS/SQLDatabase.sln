@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLDatabase", "SQLDatabase\SQLDatabase.sqlproj", "{0DF6EE37-4575-4DC2-96BD-998024B93970}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9325C8DA-1BAA-4A70-8E66-568FA3356074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF6EE37-4575-4DC2-96BD-998024B93970}.Debug|x64.ActiveCfg = Debug|x86
+		{0DF6EE37-4575-4DC2-96BD-998024B93970}.Debug|x86.ActiveCfg = Debug|x86
+		{0DF6EE37-4575-4DC2-96BD-998024B93970}.Debug|x86.Build.0 = Debug|x86
+		{0DF6EE37-4575-4DC2-96BD-998024B93970}.Release|x64.ActiveCfg = Debug|x86
+		{0DF6EE37-4575-4DC2-96BD-998024B93970}.Release|x86.ActiveCfg = Debug|x86
+		{0DF6EE37-4575-4DC2-96BD-998024B93970}.Release|x86.Build.0 = Debug|x86
+		{0DF6EE37-4575-4DC2-96BD-998024B93970}.Release|x86.Deploy.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1577BA-0DAE-4D02-AAF9-2647AC9AB205}
+	EndGlobalSection
+EndGlobal
